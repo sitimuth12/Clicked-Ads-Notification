@@ -36,6 +36,7 @@ The result we choose the Random Forest model as the best model because it has th
 
 ## Model Evalutaion
 ![model evaluation](https://user-images.githubusercontent.com/122340253/232472812-9a0b2aed-a0cc-42a0-889b-7fe794e9a6c8.png)
+
 By using the confusion matrix, it is obtained that the resulting Random Forest model is very good. We can see the prediction error (purple cells) is very small (top right and bottom left).
 
 ## Business Insight & Recomendations
