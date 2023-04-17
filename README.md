@@ -31,10 +31,12 @@ Membuat machine learning model yang dapat mendeteksi potential user untuk conver
 ## ML Modeling
 Before train the model, split the data into train set & test set (size is 30%). Trained the model with 5 different algorithms and evaluated them with Accuracy. The reason is to predict whether a data is included in the positive or negative class and and the data is balance.
 ![alt text](fig/modelling.png?raw=true)
+
 The result we choose the Random Forest model as the best model because it has the best-fit accuracy compared to other models.
 
 ## Model Evalutaion
 ![alt text](fig/model evaluation.png?raw=true)
+
 By using the confusion matrix, it is obtained that the resulting Random Forest model is very good. We can see the prediction error (purple cells) is very small (top right and bottom left).
 
 ## Business Insight & Recomendations
