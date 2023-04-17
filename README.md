@@ -1,4 +1,4 @@
-# MinPro-Clicked-Ads-Notification
+# MinPro-Clicked-Ads-Customer
 # Predict Clicked Ads Customer Classification by using Machine Learning
 
 ## Problem
@@ -12,19 +12,19 @@ Membuat machine learning model yang dapat mendeteksi potential user untuk conver
 2. Data Preprocessing (Handle Missing Value, Extract Datetime Data, Split Target dan features, dan Feature Encoding)
 3. Train model with 5 different algorithms classification with data default and normalize data
 4. Evaluation with confussion matrix
-5. Business Recomendatio
+5. Business Recomendation
 
 ## Analisis Data
-1.Distribusi pada kolom Clicked Ads (target) sudah Balanced
+1.Distribusi of Clicked Ads (target) is Balanced
 ![alt text](fig/insight1.png?raw=true)
 
-2. User yang berpotensi merespon iklan perusahaaan terdapat pada orang tua
+2. Users who have the potential respond to company advertisements are parents
 ![alt text](fig/insight2.png?raw=true)
 
-3. Potensi user yang merespon ditemukan pada user yang berpendapatan lebih rendah dibandingkan yang tidak merespon.
+3. Potential users who respond are found to be users whose income is lower than those who do not respond.
 ![alt text](fig/insight3.png?raw=true)
 
-4. Potensi user yang merespon lebih tinggi untuk user yang jarang menggunakan internet dibandiangan dengan user yang sering menggunakan internet.
+4. Potential users who respond are higher for users who rarely use the internet compared to users who frequently use the internet.
 
 ![alt text](fig/insight4.png?raw=true)
 
