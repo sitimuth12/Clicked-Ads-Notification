@@ -25,6 +25,7 @@ Membuat machine learning model yang dapat mendeteksi potential user untuk conver
 ![alt text](fig/insight3.png?raw=true)
 
 4. Potensi user yang merespon lebih tinggi untuk user yang jarang menggunakan internet dibandiangan dengan user yang sering menggunakan internet.
+
 ![alt text](fig/insight4.png?raw=true)
 
 ## ML Modeling
