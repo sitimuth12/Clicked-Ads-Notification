@@ -1,5 +1,5 @@
 # MinPro-Clicked-Ads-Notification
-Predict Clicked Ads Customer Classification by using Machine Learning
+# Predict Clicked Ads Customer Classification by using Machine Learning
 
 ## Problem
 Tim bisnis ingin mengoptimalkan metode cara beriklan mereka di platform digital agar mendapatkan user yang potential untuk click sebuah product. Agar cost yang dikeluarkan tidak terlalu besar.
