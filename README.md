@@ -1,4 +1,4 @@
-# MinPro-Clicked-Ads-Customer
+# Clicked-Ads-Customer
 # Predict Clicked Ads Customer Classification by using Machine Learning
 
 ## Problem
