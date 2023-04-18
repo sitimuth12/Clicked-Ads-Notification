@@ -2,10 +2,10 @@
 # Predict Clicked Ads Customer Classification by using Machine Learning
 
 ## Problem
-Tim bisnis ingin mengoptimalkan metode cara beriklan mereka di platform digital agar mendapatkan user yang potential untuk click sebuah product. Agar cost yang dikeluarkan tidak terlalu besar.
+The business team wants to optimize their advertising methods on digital platforms in order to get potential users to click on a product. So that the costs incurred are not too large.
 
 ## Goals
-Membuat machine learning model yang dapat mendeteksi potential user untuk convert atau tertarik pada sebuah iklan. Sehingga kita bisa mengoptimalkan cost dalam beriklan di platform digital.
+Create a machine learning model that can detect potential users to convert or be interested in an advertisement. So that we can optimize costs in advertising on digital platforms.
 
 ## Steps
 1. Exploratory Data Analysis (Descriptive, Univariate, Multivariate)
@@ -14,7 +14,7 @@ Membuat machine learning model yang dapat mendeteksi potential user untuk conver
 4. Evaluation with confussion matrix
 5. Business Recomendation
 
-## Analisis Data
+## Analysis Data
 1.Distribusi of Clicked Ads (target) is Balanced
 ![alt text](fig/insight1.png?raw=true)
 
@@ -39,7 +39,7 @@ The result we choose the Random Forest model as the best model because it has th
 
 By using the confusion matrix, it is obtained that the resulting Random Forest model is very good. We can see the prediction error (purple cells) is very small (top right and bottom left).
 
-## Business Insight & Recomendations
+## Business Insight & Recommendations
 Insight:
 1. The data obtained has 2 user segments, namely active user and non-active user segments.
     - Active users have the criteria of frequently using the internet, frequently visiting a product's website, having a relatively young age and high income.
